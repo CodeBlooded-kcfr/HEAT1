@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LupePages</string>
+    <string name="done_button">Successful Sign Up</string>
+    <string name="Aesthetics_button">Aesthetics</string>
+    <string name="Beauty_button">Beauty</string>
+    <string name="Cleaning_button">Cleaning</string>
+    <string name="Culinary_button">Culinary</string>
+    <string name="Entertainment_button">Entertainment</string>
+    <string name="Fashion_button">Fashion</string>
+    <string name="Health_button">Health</string>
+    <string name="Photography_button">Photography</string>
+    <string name="aesthetics_btn">Service Added! </string>
+    <string name="beauty_btn">Service Added!</string>
+    <string name="cleaning_btn">Service Added!</string>
+    <string name="culinary_btn">Service Added!</string>
+    <string name="entertainment_btn">Service Added!</string>
+    <string name="fashion_btn">Service Added!</string>
+    <string name="Health_btn">Service Added!</string>
+    <string name="photography_btn">Service Added!</string>
+</resources>
