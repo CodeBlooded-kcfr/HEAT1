@@ -4,7 +4,7 @@
     <item>
     <bitmap
         android:gravity="center"
-        android:src="@drawable/newlogo_500" />
+        android:src="@drawable/theheatlogo_500" />
     </item>
 
     </layer-list>

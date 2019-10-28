@@ -18,12 +18,13 @@
         >
 
         <EditText
+            android:id="@+id/editText_full_name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Name"
             android:ems="10"
+            android:hint=" Full Name"
             android:inputType="text"
-            android:textSize="22sp"/>
+            android:textSize="22sp" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -34,12 +35,13 @@
         >
 
         <EditText
+            android:id="@+id/editText_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Username/Email Address"
             android:ems="10"
+            android:hint="Email Address (Will Be Used As Username)"
             android:inputType="text"
-            android:textSize="22sp"/>
+            android:textSize="22sp" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -51,13 +53,13 @@
         >
 
         <EditText
+            android:id="@+id/editText_password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:ems="10"
             android:hint="Password"
-            android:ems="10"
             android:inputType="text"
-            android:textSize="22sp"
-            />
+            android:textSize="22sp" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -69,19 +71,19 @@
         >
 
         <EditText
+            android:id="@+id/editText_zip_code"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Zip Code"
-            android:text="73050"
             android:ems="10"
+            android:hint="Zip Code"
             android:inputType="text"
-            android:textSize="22sp"
-            />
+            android:text="73050"
+            android:textSize="22sp" />
     </com.google.android.material.textfield.TextInputLayout>
 
 
     <Button
-        android:id="@+id/done_button"
+        android:id="@+id/button_add"
         android:layout_width="match_parent"
         android:layout_height="55dp"
         android:text="Done"
@@ -90,12 +92,25 @@
         />
 
     <Button
+        android:id="@+id/login_button"
         android:layout_width="match_parent"
         android:layout_height="55dp"
-        android:text="Login"
+        android:background="@android:color/transparent"
         android:onClick="login_button"
+        android:text="Login"
+        android:textColor="@color/colorAccent" />
+
+    <Button
+        android:id="@+id/button_view"
+        android:layout_width="match_parent"
+        android:layout_height="26dp"
+        android:background="@android:color/transparent"
+        android:orientation="vertical"
+        android:text="View Data"
         android:textColor="@color/colorAccent"
-        android:background="@android:color/transparent"/>
+        android:visibility="invisible" />
+
+
 
 
 </LinearLayout>
