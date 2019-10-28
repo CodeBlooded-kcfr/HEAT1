@@ -1,14 +1,14 @@
-Langston University Team: ìCode Bloodedî - HEAT (Hosted Entrepreneur Access Technology) - Fostering Entrepreneurship 
+Langston University Team: ‚ÄúCode Blooded‚Äù - HEAT (Hosted Entrepreneur Access Technology) - Fostering Entrepreneurship 
  
 Everyday there is a new entrepreneur and business being built; but have you ever thought to yourself, how would you promote it? Many Customers 
 
-love to shop, eat, have fun, and find other things to do. Our solution ìHEATî help you find young, up-and-coming, professional entrepreneurs. 
+love to shop, eat, have fun, and find other things to do. Our solution ‚ÄúHEAT‚Äù help you find young, up-and-coming, professional entrepreneurs. 
 
 HEAT creates a networking system to help entrepreneurs grow their business. We have an option for customers to sign up, and find entertaining 
 
 things to do or want to get done. This project was created using Java, Android Studio, Database, SQL, PhotoShop, and OpenShot. To use the 
 
-application, a user must first create an account. Depending on the userís purpose for utilizing the app, you can either sign up for an 
+application, a user must first create an account. Depending on the user‚Äôs purpose for utilizing the app, you can either sign up for an 
 
 entrepreneur path or a customer path. The entrepreneurial path gives the user the ability to promote their business by giving a description of 
 
@@ -25,5 +25,4 @@ submissions. In the future, our group hopes to expand the app to other locations
 HEAT fosters entrepreneurship in a new and dynamic way.  
 
  
- 
-<Youtube Link: Code Blooded KCFed Codeathon Demonstration Video 
+Code Blooded KCFed Codeathon Demonstration Video: https://www.youtube.com/watch?v=siGVcBRwd2E&feature=youtu.be
